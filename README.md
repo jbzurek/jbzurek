@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbzurek&show_icons=true&theme=dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbzurek&layout=compact&theme=dark)
+
 <!--
 **jbzurek/jbzurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
