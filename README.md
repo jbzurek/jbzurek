@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbzurek&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbzurek&layout=compact&theme=dark)
+I am a third-year Computer Science student at PJATK in Warsaw, with a passion for various areas of IT.
 
 <!--
 **jbzurek/jbzurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
